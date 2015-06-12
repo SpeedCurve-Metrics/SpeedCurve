@@ -1,2 +1,3 @@
 # SpeedCurve
-Public SpeedCurve repo for tracking bugs and issues
+Public SpeedCurve repo for tracking bugs, issues & features
+https://speedcurve.com/
