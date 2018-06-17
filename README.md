@@ -14,4 +14,4 @@ We can respond to your questions faster if you send them to **support@speedcurve
 
 ## Thanks!
 
-As always, lots of 💜 [the SpeedCurve team](https://speedcurve.com/about/).
+As always, lots of 💜 from [the SpeedCurve team](https://speedcurve.com/about/).
