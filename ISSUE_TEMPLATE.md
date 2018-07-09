@@ -1,6 +1,6 @@
 ### Issue type
 
-  - [ ] Feature request
+  - [x] Feature request
   - [ ] Bug report
   - [ ] Question (please email questions to support@speedcurve.com)
 
